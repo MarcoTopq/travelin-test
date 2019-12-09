@@ -3,7 +3,7 @@ var Sequelize = require('sequelize');
 var db = new Sequelize({
   database: 'sql12315055', 
   username: 'sql12315055', 
-  password: 'Please wait',
+  password: 'CBwTBSPfdk',
   host: 'sql12.freemysqlhosting.net',
   port: 3306,
   dialect: 'mysql',
